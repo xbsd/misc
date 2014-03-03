@@ -1,0 +1,13 @@
+
+# Package is unavailable for R v. 2.15.2 ...
+
+Install package manually from the Archives. For eg., gplots was unavailable for 2.15.2
+
+Installed from Archive
+
+http://cran.r-project.org/src/contrib/Archive/gplots/
+
+At prompt:
+R CMD INSTALL gplots_2.10.1.tar.gz
+
+After that, package initialized fine.
